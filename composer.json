@@ -1,6 +1,7 @@
 {
     "name": "haiprobaby/multi-lang",
     "description": "适用于laravel-admin的多语言支持扩展",
+    "version": "1.2",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
     "homepage": "https://github.com/Haiprobaby/multi-lang",
